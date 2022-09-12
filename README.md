@@ -1,6 +1,6 @@
 # MealBuddy
-- View over 200 different 
-- Image, ingredients, and recipe available for all meals
+- View over 200 different meals
+- Images, ingredients, and recipes included
 - Example below of app use:
 
 
