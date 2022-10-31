@@ -1,6 +1,6 @@
 # MealBuddy
-- View over 200 different meals
-- Images, ingredients, and recipes included
+- Implemented the MealDB api which presents up to 200 different meal when app starts in alphabetical order.
+- Includes Images, ingredients, and recipes
 - Example below of app use:
 
 
