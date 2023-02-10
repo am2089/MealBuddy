@@ -1,8 +1,6 @@
-# MealBuddy
-- Implemented the MealDB api which presents up to 200 different meal when app starts in alphabetical order.
-- Includes Images, ingredients, and recipes
-- Example below of app use:
-
+- Created an application that presents data into a Tableview alphabetically and has a details page for every item. The networking layer was written with NSURLSession.
+- Utilized the MVC Architecture Pattern to handle logic, decoupling user-facing presentation from underlying architecture in accordance with modern design principles and best practices.
+- Streamlined project navigation using Storyboards.
 
 
 
